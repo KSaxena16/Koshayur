@@ -322,7 +322,8 @@ bottom: 0;
     transition: ease 0.5s;
   }
   footer{
-    position: relative;
+    position: fixed;
     bottom: 0;
+    width: 100%;
     }
 }
